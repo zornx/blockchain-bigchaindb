@@ -60,7 +60,7 @@ $ tendermint init
 
 #### Start BigchainDB Server
 ```sh
-$ $ bigchaindb start
+$ bigchaindb start
 ```
 Check BigchainDB API: http://localhost:9984/api/v1/
 
