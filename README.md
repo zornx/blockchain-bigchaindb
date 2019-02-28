@@ -37,11 +37,6 @@ $ sudo pip3 install bigchaindb==2.0.0b8
 ```sh
 $ bigchaindb configure
 ```
-
-#### Configure BigchainDB Server
-```sh
-$ bigchaindb configure
-```
 Note: Accept the default value for all other BigchainDB config settings.
 
 #### Install (and Start) MongoDB
